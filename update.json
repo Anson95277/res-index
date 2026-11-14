@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 59,
-  "versionName": "1.0.59",
+  "versionCode": 60,
+  "versionName": "1.0.60",
   "url": "https://anson95277.github.io/res-index/app.apk",
-  "note": "v1.0.59：修复点「退出」后重新打开 APP 需要再次开启无障碍的问题；保留 v58 宽屏自适应。强制更新未开启。",
+  "note": "v1.0.60：按小米 Civi 5 Pro 真机截图定标，画面改为与游戏一致的 16:9 内容居中 + 按高度等比自适应，修复宽屏机开局歌名识别不到导致的『等待开局 / 歌曲未识别 / 不按键』；识别与按键坐标共用同一套补偿，未识别时附一行诊断码。强制更新未开启。",
   "force": false,
-  "updated": "2026-11-15 00:11"
+  "updated": "2026-11-15 00:49"
 }
