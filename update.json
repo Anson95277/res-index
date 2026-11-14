@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 56,
-  "versionName": "1.0.56",
+  "versionCode": 57,
+  "versionName": "1.0.57",
   "url": "https://anson95277.github.io/res-index/app.apk",
-  "note": "发言页两页布局修正（含喇叭条数输入框内嵌）；侧栏对称；退出确认双行；CDK 重复提示收敛；在线一机一码；新增后台强制更新开关",
+  "note": "修复「检查更新」卡在『正在检查新版本…』不返回的问题（改为三态反馈 + 4 秒/地址超时 + 15 秒兜底）；发言页两页布局修正；在线一机一码；后台强制更新开关",
   "force": false,
-  "updated": "2026-11-14 15:00"
+  "updated": "2026-11-14 16:30"
 }
