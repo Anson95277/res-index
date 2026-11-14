@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "versionCode": 56,
+  "versionName": "1.0.56",
+  "url": "https://anson95277.github.io/res-index/app.apk",
+  "note": "发言页两页布局修正（含喇叭条数输入框内嵌）；侧栏对称；退出确认双行；CDK 重复提示收敛；在线一机一码；新增后台强制更新开关",
+  "force": false,
+  "updated": "2026-11-14 15:00"
+}
