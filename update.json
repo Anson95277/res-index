@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 58,
-  "versionName": "1.0.58",
+  "versionCode": 59,
+  "versionName": "1.0.59",
   "url": "https://anson95277.github.io/res-index/app.apk",
-  "note": "v1.0.58：新增宽屏机型画面自适应，20:9 / 19.5:9 等宽屏下自动对齐按键与箭头识别坐标；16:9 机型保持原有表现",
-  "force": true,
-  "updated": "2026-11-14 22:23"
+  "note": "v1.0.59：修复点「退出」后重新打开 APP 需要再次开启无障碍的问题；保留 v58 宽屏自适应。强制更新未开启。",
+  "force": false,
+  "updated": "2026-11-15 00:11"
 }
